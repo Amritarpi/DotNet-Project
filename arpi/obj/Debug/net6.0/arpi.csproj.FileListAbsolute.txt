@@ -1,0 +1,8 @@
+C:\Users\Cirruslabs\Desktop\arpi\obj\Debug\net6.0\arpi.csproj.AssemblyReference.cache
+C:\Users\Cirruslabs\Desktop\arpi\obj\Debug\net6.0\arpi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cirruslabs\Desktop\arpi\obj\Debug\net6.0\arpi.AssemblyInfoInputs.cache
+C:\Users\Cirruslabs\Desktop\arpi\obj\Debug\net6.0\arpi.AssemblyInfo.cs
+C:\Users\Cirruslabs\Desktop\arpi\obj\Debug\net6.0\arpi.csproj.CoreCompileInputs.cache
+C:\Users\Cirruslabs\Desktop\arpi\obj\Debug\net6.0\arpi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cirruslabs\Desktop\arpi\obj\Debug\net6.0\arpi.RazorAssemblyInfo.cache
+C:\Users\Cirruslabs\Desktop\arpi\obj\Debug\net6.0\arpi.RazorAssemblyInfo.cs
